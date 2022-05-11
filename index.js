@@ -8,5 +8,8 @@ console.log("Staging Area");
 // git stash save ''
 // list: git stash list
 // show: git stash apply 0 {index}
+// show: git stash pop 0 {index}
+// apply: mengembalikan apa yang ada dalam stash tetapi tidak men-delete stashnya
+// pop: sama seperti apply sekaligus men-delete yang ada di dalam stash
 
 console.log("Git Stash");
