@@ -1,2 +1,5 @@
 console.log("Hello World!");
-// U = untracked
+
+// Staging Area: tempat menyiapkan file untuk dicatat
+
+console.log("Staging Area");
