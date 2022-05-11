@@ -12,3 +12,5 @@ console.log("Push to GitHub");
 
 //list: git branch -a
 //local: git branch -v
+
+//new branch: selalu mengikuti isi code dari HEAD
